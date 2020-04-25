@@ -1,0 +1,26 @@
+docs_list_title: ACME Documentation
+docs:
+
+- title: About
+  url: index.html
+  class: fa fa-user
+
+- title: Education
+  url: education.html
+  class: fa fa-graduation-cap
+
+- title: Experience
+  url: experience.html
+  class: fa fa-suitcase
+
+- title: Projects
+  url: projects.html
+  class: fa fa-code
+
+- title: FOSS
+  url: open-source.html
+  class: fa fa-code-fork
+
+- title: Contact
+  url: contact.html
+  class: fa fa-phone

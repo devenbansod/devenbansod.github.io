@@ -1,0 +1,54 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+
+section {
+    padding-top: 48px;
+}
+
+.navigation a {
+    font-size: inherit;
+}
+
+.navigation li {
+    width: 100%;
+}
+
+footer {
+    bottom: 10px;
+}
+
+i {
+    width: 20px;
+    padding-right: 1px;
+    height: 20px;
+}
+
+.navigation {
+    // display: flex;
+    // flex-wrap: wrap;
+    list-style: none;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: #f1f1f1;
+}
+
+.navigation span {
+    flex: 1;
+}
+
+.navigation a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+.navigation a:hover {
+    background-color: #555;
+    color: white;
+}
