@@ -1,3 +1,7 @@
+---
+title: "Academic Projects: Deven Bansod"
+---
+
 ## Academic Projects
 
 ### At Georgia Tech

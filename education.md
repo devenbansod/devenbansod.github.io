@@ -1,3 +1,7 @@
+---
+title: "Education: Deven Bansod"
+---
+
 ## Education
 
 ### [The Georgia Institute of Technology](https://www.gatech.edu) - *Aug 2019 - Dec 2020*

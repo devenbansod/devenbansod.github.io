@@ -1,3 +1,7 @@
+---
+title: "Contact: Deven Bansod"
+---
+
 ## Contact
 
 <h3 id="email"><i class="fa fa-envelope-o"></i>&nbsp;Email</h3>
