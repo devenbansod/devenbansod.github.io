@@ -12,31 +12,25 @@ title: "Academic Projects: Deven Bansod"
 
 TBD
 
-<hr/>
 
 ##### Log analysis DB system
 
 TBD
 
-<hr/>
 
 ##### VM memory and scheduler
 
 TBD
 
-<hr/>
 
 ##### GRPC based marketplace
 
 TBD
 
-<hr/>
 
 ##### FindMyAir
 
 TBD
-
-<hr/>
 
 
 ##### PECSS
@@ -51,13 +45,9 @@ TBD
 
 TBD
 
-<hr/>
-
 ##### DNS transport
 
 TBD
-
-<hr/>
 
 ##### Approximate Query Processing
 
