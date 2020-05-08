@@ -9,7 +9,7 @@ h5 {
 }
 
 .smaller {
-    font-size: 0.75rem;
+    font-size: 0.82rem;
 }
 
 .float-right {
