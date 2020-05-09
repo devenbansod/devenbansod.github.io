@@ -4,7 +4,7 @@ title: "Education: Deven Bansod"
 
 ## Education
 
-### [The Georgia Institute of Technology](https://www.gatech.edu) <span style="float:right; font-size: 0.875rem">*Aug 2019 - Dec 2020*</span>
+### [Georgia Institute of Technology](https://www.gatech.edu) <span style="float:right; font-size: 0.875rem">*Aug 2019 - Dec 2020*</span>
 
 #### Master of Science in Computer Science <span style="float:right">**GPA**: 4.0/4.0</span>
 
