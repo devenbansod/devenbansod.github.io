@@ -4,7 +4,7 @@ title: "Open-Source: Deven Bansod"
 
 ## Free and Open-Source Software contributions
 
-### [phpMyAdmin](https://www.phpmyadmin.net)
+### phpMyAdmin
 
 TBD
 

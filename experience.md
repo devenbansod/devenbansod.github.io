@@ -5,6 +5,7 @@ title: "Work Experience: Deven Bansod"
 .smaller {
     font-size: 0.82rem;
 }
+
 </style>
 
 ## Work Experience

@@ -100,9 +100,16 @@ ul, p {
 TBD
 
 
-#### PECSS
+#### PE Collective Sensing System (PECSS) <a class="pointer ml-1">[Github]</a>
 
-TBD
+<div class="smaller">
+    <span class="intro-sentence">Working with <a href="">Dr. Rosa Arriaga</a>, developed a <a href="">HIPAA</a> compliant Android application to augment the <a href="">Prolonged Exposure (PE) therapy</a> for <a href="">PTSD</a></span>
+
+    <ul style="margin-top: 1%">
+        <li>Aimed at PTSD patients undergoing PE therapy, the Android application passively measures their engagement/stress levels, provides a progress platform, and augments the treatment best-practices</li>
+        <li>The application, designed to be HIPAA compliant, is built on the principle of "<i>data: encrypted at-rest and encrypted in-flight</i>" and also supports an offline mode of operation</li>
+    </ul>
+</div>
 
 <hr style="height:1.75px;"/>
 
@@ -115,14 +122,22 @@ TBD
 
     <ul style="margin-top: 1%">
         <li>Implemented sense-reversing, tree-based, dissemination barriers using OpenMP and MPI parallelization frameworks</li>
-        <li>Developed a OpenMP-MPI combined barrier targetting a distributed system consisting of multicore nodes</li>
+        <li>Developed an OpenMP-MPI combined barrier targetting a distributed system consisting of multicore nodes</li>
         <li>Evaluated the performance of these barriers against the native OpenMP and Open MPI barrier implementations</li>
     </ul>
 </div>
 
-#### DNS transport
+#### Evaluating Alternative DNS implementations <a class="pointer ml-1">[Report]</a>
 
-TBD
+<div class="smaller">
+    <span class="intro-sentence">Implemented the domain name service using different transport protocol alternatives: <a href="">HTTPS</a>, <a href="">TLS</a>, <a href="">QUIC</a>, <a href="">DTLS</a> and <a href="">DNSCrypt</a>, and analyzed their performance and privacy implications through a set of experiments</span>
+
+    <ul style="margin-top: 1%">
+        <li>Implemented or setup the alternative DNS implementations, conducted qualitative and quantitative analysis, and evaluated its viability in the current Internet scenario</li>
+        <li>The experiments considered the metrics like resolution times, protocol overhead, effect of reusing connections, effect of packet loss while also studying the security implications of privacy provided by these protocols
+        </li>
+    </ul>
+</div>
 
 #### Approximate Query Processing
 
