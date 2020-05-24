@@ -6,10 +6,10 @@ title: "Contact: Deven Bansod"
 
 <h3 id="email"><i class="fa fa-envelope-o"></i>&nbsp;Email</h3>
 
-**Personal**  
+**Personal**
 [devenbansod.bits@gmail.com](mailto:devenbansod.bits@gmail.com) | [devenbansod94@gmail.com](mailto:devenbansod94@gmail.com)
 
-**Academic**  
+**Academic**
 [dbansod@gatech.edu](mailto:dbansod@gatech.edu)
 
 <h3 id="phone"><i class="fa fa-phone"></i>&nbsp;Phone</h3>
@@ -62,6 +62,6 @@ LinkedIn: [devenbansod](https://linkedin.com/in/devenbansod) | Github: [devenban
     </div>
   </a>
 
-  
+
 
 </div>

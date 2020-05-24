@@ -11,7 +11,7 @@ Previously, I worked as a Software Development Engineer II at [PayPal Inc.](http
 
 I have a keen interest in developing software systems to solve challenging real-life problems at scale.
 
-You can find my resume [here]().
+You can find my resume [here](https://drive.google.com/open?id=16Je_Uy6XsHX2vT04P2r6Vujb9AVTH9oO).
 
 <hr/>
 
@@ -57,6 +57,6 @@ You can find my resume [here]().
     </div>
   </a>
 
-  
+
 
 </div>

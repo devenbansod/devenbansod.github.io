@@ -60,7 +60,7 @@ ul, p {
     </ul>
 </div>
 
-#### Database System Application for SysLog analysis <a class="pointer ml-1">[Github]</a> <a class="pointer ml-1">[Slides]</a>
+#### Database System Application for SysLog analysis <a class="pointer ml-1" href="https://github.com/devenbansod/log-data-analysis-db-system">[Github]</a> <a class="pointer ml-1" href="https://docs.google.com/presentation/d/1ZWzANJ9xi8FZeIqD7K0QuEHuY6InUSNafHj6FY9x_mo/edit?usp=sharing">[Slides]</a>
 
 <div class="smaller">
     <span class="intro-sentence">Designed and implemented a database system to enable the efficient forensic analysis on system call audit logs</span>
@@ -95,15 +95,17 @@ ul, p {
     </ul>
 </div>
 
-#### FindMyAir
-
-TBD
-
-
-#### PE Collective Sensing System (PECSS) <a class="pointer ml-1">[Github]</a>
+#### FindMyAir <a class="pointer ml-1" href="https://github.com/devenbansod/findmyair">[Github UI]</a><a class="pointer ml-1" href="https://github.com/devenbansod/findmyair-api">[Github API]<a class="pointer ml-1" href="https://drive.google.com/open?id=1V_19Ef73J3FtK-pAJTiZUQqxaKkp6ihh">[Poster]</a><a class="pointer ml-1" href="https://drive.google.com/open?id=1-A8lodZkHr40tcMImCvS67GZS0iH4OGr">[Report]</a>
 
 <div class="smaller">
-    <span class="intro-sentence">Working with <a href="">Dr. Rosa Arriaga</a>, developed a <a href="">HIPAA</a> compliant Android application to augment the <a href="">Prolonged Exposure (PE) therapy</a> for <a href="">PTSD</a></span>
+    <span class="intro-sentence">Demo at: <a href="https://findmyair.herokuapp.com/">https://findmyair.herokuapp.com</a></span>
+    <ul></ul>
+</div>
+
+#### PE Collective Sensing System (PECSS)
+
+<div class="smaller">
+    <span class="intro-sentence">Working with <a href="https://www.cc.gatech.edu/people/rosa-arriaga">Dr. Rosa Arriaga</a>, developed a <a href="https://www.hhs.gov/hipaa/for-professionals/security/laws-regulations/index.html">HIPAA-compliant</a> Android application to augment the <a href="https://www.apa.org/ptsd-guideline/treatments/prolonged-exposure">Prolonged Exposure (PE) therapy</a> for <a href="https://www.nimh.nih.gov/health/topics/post-traumatic-stress-disorder-ptsd/index.shtml">PTSD</a></span>
 
     <ul style="margin-top: 1%">
         <li>Aimed at PTSD patients undergoing PE therapy, the Android application passively measures their engagement/stress levels, provides a progress platform, and augments the treatment best-practices</li>
@@ -115,7 +117,7 @@ TBD
 
 <!-- #### Analysis-based -->
 
-#### Barrier synchronization for parallel systems <a class="pointer ml-1">[Github]</a><a class="pointer ml-1">[Report]</a>
+#### Barrier synchronization for parallel systems <a class="pointer ml-1">[Github]</a><a class="pointer ml-1" href="https://drive.google.com/open?id=1sArKrOzTHyAM4DCCd74EAFJzzdxqk1O_">[Report]</a>
 
 <div class="smaller">
     <span class="intro-sentence">Implemented various <a href="https://dl.acm.org/doi/10.1145/103727.103729">barrier synchronization algorithms</a> and analyzed their performance on a multicore system, a distributed system and a combination of both</span>
@@ -127,10 +129,10 @@ TBD
     </ul>
 </div>
 
-#### Evaluating Alternative DNS implementations <a class="pointer ml-1">[Report]</a>
+#### Evaluating Alternative DNS implementations <a class="pointer ml-1" href="https://drive.google.com/open?id=1gDIVREgpcm4uN7M7EuQ_hbcDV4yg4LQl">[Report]</a>
 
 <div class="smaller">
-    <span class="intro-sentence">Implemented the domain name service using different transport protocol alternatives: <a href="">HTTPS</a>, <a href="">TLS</a>, <a href="">QUIC</a>, <a href="">DTLS</a> and <a href="">DNSCrypt</a>, and analyzed their performance and privacy implications through a set of experiments</span>
+    <span class="intro-sentence">Implemented the domain name service using different transport protocol alternatives: <a href="https://tools.ietf.org/html/rfc8484">HTTPS</a>, <a href="https://tools.ietf.org/html/rfc7858">TLS</a>, <a href="https://tools.ietf.org/id/draft-huitema-quic-dnsoquic-06.html">QUIC</a>, <a href="https://tools.ietf.org/html/rfc6347">DTLS</a> and <a href="https://www.dnscrypt.org/">DNSCrypt</a>, and analyzed their performance and privacy implications through a set of experiments</span>
 
     <ul style="margin-top: 1%">
         <li>Implemented or setup the alternative DNS implementations, conducted qualitative and quantitative analysis, and evaluated its viability in the current Internet scenario</li>
@@ -139,9 +141,17 @@ TBD
     </ul>
 </div>
 
-#### Approximate Query Processing
+#### Approximate Query Processing <a class="pointer ml-1" href="https://drive.google.com/open?id=1Y2xW1KG07fvD1nNpsyKqBohYHvlC7cND">[Paper]</a>
 
-TBD
+<div class="smaller">
+    <span class="intro-sentence">Wrote a term paper surveying the area of Approximate Query Processing (AQP) in database systems through its approaches, extensions and applications</span>
+
+    <ul style="margin-top: 1%">
+        <li>This survey presents the development of Approximate Query Processing (AQP) over the past couple of decades</li>
+        <li>We cover the online (ex. naive sampling, online aggrgation, distinct couting etc.) and the offline (ex. histograms, sketches, wavelets etc.) aggregation approaches to AQP</li>
+        <li>We review the modern applications of AQP to spatial data and visual analytics and conclude our discussion outlining the future research opportunities and challenges in the field</li>
+    </ul>
+</div>
 
 <hr style="height:1.75px;background:#000"/>
 
