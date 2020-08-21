@@ -7,7 +7,7 @@ title: "Open-Source: Deven Bansod"
 }
 
 .intro-sentence {
-    margin-bottom: 20%;
+    margin-bottom: 5%;
 }
 
 ul, p {
@@ -28,11 +28,12 @@ li {
 ### phpMyAdmin
 
 <div class="smaller">
-    <span class="intro-sentence">Serve on the 5-membered project leadership commitee (PLC) and contribute to project's development by triaging and fixing reported issues, implementing features and helping new contributors on-board easily. Following are the primary sub-projects I have worked on are:</span>
+    <p class="intro-sentence">Serve on the 5-membered project leadership commitee (PLC) and contribute to project's development by triaging and fixing reported issues, implementing features and helping new contributors on-board easily.</p>
+    <p>Following are the primary sub-projects I have worked on are:</p>
     <ul>
         <p><a href="https://github.com/phpmyadmin/phpmyadmin">phpMyAdmin</a> - Main phpMyAdmin software</p>
         <p><a href="https://github.com/phpmyadmin/sql-parser">SQL Parser</a> - Error Tolerant SQL parser for MySQL and MariaDB dialects</p>
-        <p><a href="https://github.com/phpmyadmin/error-reporting-server">Error Reporting Server</a> - Handles collecting error reported by the users</p>
+        <p><a href="https://github.com/phpmyadmin/error-reporting-server">Error Reporting Server</a> - Handles collection and analysis of user-reported errors in usage</p>
     </ul>
 </div>
 

@@ -15,7 +15,9 @@ title: "Work Experience: Deven Bansod"
 
 <div class="smaller">
     <ul>
-        <li>Working in the <strong>Code Experiences and Lifecycle</strong> team (Dev Infra) with <a href="https://www.linkedin.com/in/otawfik">Omar Tawfik</a></li>
+        <li>Developed a feature to allow collating team-owned folders scattered across the mono-repo (with >10 GB size, ~10k directories) together as a 'project'</li>
+        <li>Built the end-to-end experience of creating and opening of 'projects' as a VS Code extension and launched it to the 15000 Facebook engineers</li>
+        <li>Helped improve developer efficiency through reducing the 'time to first code edit' (after opening the IDE) by ~10% (<i>initial samples</i>)</li>
     </ul>
 </div>
 
