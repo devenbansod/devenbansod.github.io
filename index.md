@@ -5,7 +5,7 @@ title: "About: Deven Bansod"
 
 ## About
 
-Currently, I am a graduate student in the [School of Computer Science](https://www.scs.gatech.edu) at The [Georgia Institute of Technology (Atlanta)](https://www.gatech.edu).
+Currently, I am a graduate student in the [School of Computer Science](https://www.scs.gatech.edu/) at The [Georgia Institute of Technology (Atlanta)](https://www.gatech.edu).
 
 Previously, I worked as a Software Development Engineer II at [PayPal Inc.](https://www.paypal.com)
 
